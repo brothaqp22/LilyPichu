@@ -504,7 +504,7 @@
   height: 35px;
   background-color: var(--background-secondary);
   border-radius: 0 0 var(--border-radius) var(--border-radius);
-  background-image: linear-gradient(to right, var(--header-primary) 33%, rgba(255, 255, 255, 0) 0%);
+  background-image: linear-gradient(to right, var(--header-primary) 33%, rgba(0, 0, 0, 0) 0%);
   background-position: top;
   background-size: 21px 2px;
   background-repeat: repeat-x;
